@@ -1,1 +1,2 @@
-my.greeting=Hell Micro!
+my:
+  greeting:Hell Micro!
